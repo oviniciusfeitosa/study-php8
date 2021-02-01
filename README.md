@@ -9,7 +9,7 @@
 
 - Atividades
     - [ ] Grupo1 (diretório)
-        - [ ] Criar arquivo que exibe Nome, Sobrenome e telefone
+        - [x] Criar arquivo que contenha Nome, Sobrenome e telefone
         - [ ] Criar lista que é iterada e exibe todos seus itens
         - [ ] Criar Classe PHP
             - [ ] Criar método que retorna frase "Bom dia, " seguido de um parametro
@@ -59,3 +59,5 @@
 - [Gitmoji](https://gitmoji.dev)
 - [Lumen](https://lumen.laravel.com)
 - [Insomnia](https://insomnia.rest/download/)
+- [Testes](https://lumen.laravel.com/docs/8.x/testing)
+- [Faker](https://stackoverflow.com/questions/49553982/lumen-generate-fake-data-with-faker-from-given-array)

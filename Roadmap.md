@@ -12,13 +12,20 @@ composer create-project --prefer-dist laravel/lumen grupo1
 php -S localhost:8000 -t public
 ```
 
-- Instalar extens�es do php
-```sh
-sudo apt install php8.0-xml php8.0-mbstring
-```
+- Instalar extensões do php
 
 ```sh
 sudo apt install php8.0-xml php8.0-mbstring
 ```
 
---Incrementar 
+- Criar controller Pessoa
+
+```sh
+php artisan make:controller PessoaController
+```
+
+- Testar a aplicação grupo1
+
+```sh
+php -S localhost:8000 -t public
+```
