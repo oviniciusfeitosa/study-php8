@@ -52,7 +52,8 @@
     - 10 minutos
 - Trabalhar com os exemplos utilizando rotas de api
 - Documentar [Roadmap](./Roadmap.md)
-- Utilizar versionamento 
+- Utilizar versionamento
+    - Lingua: Inglês
 
 ## References
 
