@@ -1,0 +1,5 @@
+{
+    "require": {
+        "flipbox/lumen-generator": "^8.2"
+    }
+}
