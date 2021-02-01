@@ -17,8 +17,21 @@ php -S localhost:8000 -t public
 sudo apt install php8.0-xml php8.0-mbstring
 ```
 
+- Composer update
 ```sh
-sudo apt install php8.0-xml php8.0-mbstring
+ composer update
+``` 
+- Adicionar comandos do Artisan ao Lumen
+```sh
+ composer require flipbox/lumen-generator
 ```
 
---Incrementar 
+- Registrar o provider do Lumen Generator
+```php
+ $app->register(Flipbox\LumenGenerator\LumenGeneratorServiceProvider::class);
+```
+
+- Criar a model Pessoa e propriedades
+```sh
+php artisan make:model Pessoa
+```
