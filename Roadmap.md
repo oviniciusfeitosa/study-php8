@@ -52,3 +52,13 @@ php artisan make:controller PessoaController
 ```sh
 php -S localhost:8000 -t public
 ```
+
+- Criar classe HelloWordController
+
+```sh
+php artisan make:controller HelloWorldController
+```
+
+
+
+

@@ -10,16 +10,16 @@
 - Atividades
     - [ ] Grupo1 (diretório)
         - [x] Criar arquivo que contenha Nome, Sobrenome e telefone
-        - [ ] Criar lista que é iterada e exibe todos seus itens
-        - [ ] Criar Classe PHP
-            - [ ] Criar método que retorna frase "Bom dia, " seguido de um parametro
+        - [x] Criar lista que é iterada e exibe todos seus itens
+        - [x] Criar Classe PHP
+            - [x] Criar método que retorna frase "Bom dia, " seguido de um parametro
                 - Esse parâmetro é recebido na assinatura do método
-            - [ ] Criar construtor
-            - [ ] Criar método estático
-        - [ ] Criar Classe abstrata
-        - [ ] Criar interface
-        - [ ] Implementar interface (contrato)
-        - [ ] Criar rota que exemplifica o uso dos itens criados
+            - [x] Criar construtor
+            - [x] Criar método estático
+        - [x] Criar Classe abstrata
+        - [x] Criar interface
+        - [x] Implementar interface (contrato)
+        - [x] Criar rota que exemplifica o uso dos itens criados
         - [ ] Implementar teste usando PHPUnit para testar o que foi criado
     - [ ] Grupo2 (diretório)
         - [ ] Definir namespace para classes dos grupos criados
