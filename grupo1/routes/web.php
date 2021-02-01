@@ -18,3 +18,5 @@ $router->get('/', function () use ($router) {
 });
 
 $router->get('/pessoa/exibirListaRandomica/{quantidadePessoas}', 'PessoaController@exibirListaRandomica');
+
+$router->get('/hello-world/retornar-frase/{frase}', 'HelloWorldController@retornarFrase');

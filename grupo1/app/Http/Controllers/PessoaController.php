@@ -11,9 +11,11 @@ class PessoaController extends Controller
     {
         $faker = Faker::create();
         $listaPessoas = [];
-        $listaPessoas[0]['nome'] = $faker->firstName;
-        $listaPessoas[0]['sobrenome'] = $faker->lastName;
-        $listaPessoas[0]['telefone'] = $faker->phoneNumber;
+        for ($x = 0; $x < $quantidadePessoas; $x++) {
+            $listaPessoas[$x]['nome'] = $faker->firstName;
+            $listaPessoas[$x]['sobrenome'] = $faker->lastName;
+            $listaPessoas[$x]['telefone'] = $faker->phoneNumber;
+        }
         return $listaPessoas;
     }
 }
