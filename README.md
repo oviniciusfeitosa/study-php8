@@ -47,7 +47,6 @@
 
 **OBS**
 
-- Utilizar como referência o framework [Lumen](https://lumen.laravel.com)
 - Pomodoro Metrics
     - 10 minutos
 - Trabalhar com os exemplos utilizando rotas de api
@@ -58,3 +57,5 @@
 ## References
 
 - [Gitmoji](https://gitmoji.dev)
+- [Lumen](https://lumen.laravel.com)
+- [Insomnia](https://insomnia.rest/download/)
